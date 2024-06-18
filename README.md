@@ -31,15 +31,22 @@ To get a local copy up and running, follow these steps:
    /mvnw spring-boot:run
    
 3. The backend server will start running at http://localhost:8080.
+   
+#### Frontend (React)
 
-### Frontend (React)
- ```bash
+    ```bash
    npm install
-   npm run dev 
+   npm run dev
 
-### To access the Application
+   
+#### To access the Application 
 
-1. To access database
-  http://localhost:8080/h2-console
-2. To access react app
+1. To access database:
+   http://localhost:8080/h2-console
+
+2. To access React app:
    http://localhost:5173
+
+
+
+
