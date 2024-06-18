@@ -2,6 +2,14 @@
 
 A Student Management System built with Spring Boot and React, allowing CRUD operations on student details.
 
+![Screenshot 2024-06-18 190527](https://github.com/Tejas-24ytj/Student-Management-System/assets/105742352/329be6c5-3ccb-4291-8dc7-d7fb2458d684
+
+![Screenshot 2024-06-18 190547](https://github.com/Tejas-24ytj/Student-Management-System/assets/105742352/17f0e8e3-2b9e-438e-9c83-68c0101ea12d)
+
+![Screenshot 2024-06-18 190729](https://github.com/Tejas-24ytj/Student-Management-System/assets/105742352/395c1f64-875f-46ff-af53-a870ee2d946a)
+
+![Screenshot 2024-06-18 184915](https://github.com/Tejas-24ytj/Student-Management-System/assets/105742352/fec275e3-4265-4d77-b1e2-b92943c0648e)
+
 ### Features
 
 - **Add, View, Update, Delete Students:** Perform CRUD operations on student records.
@@ -34,7 +42,6 @@ To get a local copy up and running, follow these steps:
    
 #### Frontend (React)
 
-    ```bash
    npm install
    npm run dev
 
