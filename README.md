@@ -2,7 +2,7 @@
 
 A Student Management System built with Spring Boot and React, allowing CRUD operations on student details.
 
-![Screenshot 2024-06-18 190527](https://github.com/Tejas-24ytj/Student-Management-System/assets/105742352/329be6c5-3ccb-4291-8dc7-d7fb2458d684
+![Screenshot 2024-06-18 190527](https://github.com/Tejas-24ytj/Student-Management-System/assets/105742352/329be6c5-3ccb-4291-8dc7-d7fb2458d684)
 
 ![Screenshot 2024-06-18 190547](https://github.com/Tejas-24ytj/Student-Management-System/assets/105742352/17f0e8e3-2b9e-438e-9c83-68c0101ea12d)
 
